@@ -1,3 +1,5 @@
+Forked from charltoons. Thanks charltoons!
+
 HipChatter
 =============
 
